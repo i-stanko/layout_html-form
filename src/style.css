@@ -1,1 +1,7 @@
-/* styles go here */
+.container {
+  margin-bottom: 20px;
+}
+
+.inputContainer:not(:last-child) {
+  margin-bottom: 10px;
+}
