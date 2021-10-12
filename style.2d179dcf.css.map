@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,kBACF,CAEA,iCACE,kBACF","file":"style.2d179dcf.css","sourceRoot":"..\\src","sourcesContent":[".container {\n  margin-bottom: 20px;\n}\n\n.inputContainer:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
